@@ -3,11 +3,30 @@
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Installing Github
-'''
-'''
+## Installing Git on MacOS, Linux, and Windows
 
-## Connecting Github with Atom
+Prerequisites:
+* [x] [Create Github Account](https://github.com/)
+
+**Option 1: Install Git on MacOS Using Homebrew (https://brew.sh/)
+
+<img src = "images/Homebrew Image.png">
+
+:one: Copy and Paste the Command Above in your macOS Terminal by clicking on the clipboard
+
+:two: Then type in *brew install git* in macOS Terminal, and voilà, your done.
+
+**Option 2: Install Git on Linux
+
+<img src = "images/Linux Image.png">
+
+:one: Determine which Linux distribution your system is based on, and then follow the directions above. 
+
+**Option 3: Install Git on Windows
+
+<img src = "images/Git Windows.png">
+
+## Connecting GitHub with Atom
 
 Prerequisites:
 * [x] [Create Github Account](https://github.com/)
