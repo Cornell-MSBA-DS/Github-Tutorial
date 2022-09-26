@@ -63,6 +63,7 @@ We found two easy ways:
 - [7 min - Learn how to create a GitHub repo, clone, and commit with Atom](https://www.youtube.com/watch?v=6HsZMl-qV5k)
 
 - [60 min - Routine use of Git and Github Guide](https://kbroman.org/github_tutorial/)
+- [60 min - Connecting to Github with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
 ## :bust_in_silhouette: Authors
 - Franklin Tan
