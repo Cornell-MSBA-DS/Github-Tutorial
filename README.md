@@ -22,9 +22,11 @@ Prerequisites:
 
 :one: Determine which Linux distribution your system is based on, and then follow the directions above. 
 
-**Option 3: Install Git on Windows
+**Option 3: Install Git on Windows (https://gitforwindows.org/)
 
 <img src = "images/Git Windows.png">
+
+:one: Download Git from the Website by clicking on the Download buttonn and following the prompts.
 
 ## Connecting GitHub with Atom
 
@@ -59,6 +61,9 @@ We found two easy ways:
 
 ## Other Useful Resources:
 - [7 min - Learn how to create a GitHub repo, clone, and commit with Atom](https://www.youtube.com/watch?v=6HsZMl-qV5k)
+-[30 min - Routine use of git and github]
+(https://kbroman.org/github_tutorial/pages/routine.html)
+-
 
 
 ## :bust_in_silhouette: Authors
