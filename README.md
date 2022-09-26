@@ -14,7 +14,7 @@ Prerequisites:
 
 :one: Copy and Paste the Command Above in your macOS Terminal by clicking on the clipboard
 
-:two: Then type in *brew install git* in macOS Terminal, and voilà, your done.
+:two: Then type in "brew install git" in macOS Terminal, and voilà, your done.
 
 **Option 2: Install Git on Linux
 
